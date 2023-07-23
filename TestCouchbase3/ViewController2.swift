@@ -17,9 +17,9 @@ class ViewController2: UIViewController {
 //                  objc-class-ref in ViewController.o
 //            ld: symbol(s) not found for architecture arm64
 
-//            for aDoc in repl.documents {
-//
-//            }
+            for aDoc in repl.documents {
+
+            }
         };
     }
 }
