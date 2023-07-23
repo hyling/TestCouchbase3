@@ -1,0 +1,16 @@
+PODS:
+  - CouchbaseLite (3.1.1)
+
+DEPENDENCIES:
+  - CouchbaseLite (~> 3.1.x)
+
+SPEC REPOS:
+  trunk:
+    - CouchbaseLite
+
+SPEC CHECKSUMS:
+  CouchbaseLite: cc3b2f9a2d13563022d60809dec7b8e0cc39353c
+
+PODFILE CHECKSUM: 6f3f9ce59d7919623382f50238caa345e71e2ec7
+
+COCOAPODS: 1.12.1
